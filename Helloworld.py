@@ -1,2 +1,2 @@
 print("Hello world.")
-print("This is my first Python Program.")
+print("This is my first program in Python programming language")
